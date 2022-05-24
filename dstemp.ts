@@ -43,6 +43,7 @@ namespace dstemp {
      */
     //% blockId="error" block="temperature sensor error"
     //% draggableParameters="reporter" weight=0
+    //% subcategory=Exception
     export function sensorError(errCallback: (errorMessage: string, errorCode: number, port: number) => void) { 
         if(errCallback) {
             errorHandler = () => {

@@ -1,5 +1,5 @@
 {
-    "name": "microbit-dstemp",
+    "name": "pxt-dstemp",
     "version": "0.1.26",
     "description": "Dallas/Maxim DS18B20 Temperature Probe",
     "license": "MIT",
@@ -20,7 +20,7 @@
     ],
     "public": true,
     "targetVersions": {
-        "target": "4.0.16",
+        "target": "4.0.18",
         "targetId": "microbit"
     },
     "supportedTargets": [
