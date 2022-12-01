@@ -13,7 +13,8 @@
         "shims.d.ts",
         "enums.d.ts",
         "pxtparts.json",
-        "parts/ds18b20probe.svg"
+        "parts/ds18b20probe.svg",
+        "_locales/zh-tw/dstemp-strings.json"
     ],
     "testFiles": [
         "test.ts"
