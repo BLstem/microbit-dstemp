@@ -1,5 +1,5 @@
 {
-    "name": "pxt-dstemp",
+    "name": "dstemp",
     "version": "0.1.27",
     "description": "Dallas/Maxim DS18B20 Temperature Probe",
     "license": "MIT",
