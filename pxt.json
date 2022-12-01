@@ -14,7 +14,7 @@
         "enums.d.ts",
         "pxtparts.json",
         "parts/ds18b20probe.svg",
-        "_locales/zh-tw/dstemp-strings.jsonn"
+        "_locales/zh-tw/dstemp-strings.json"
     ],
     "testFiles": [
         "test.ts"
