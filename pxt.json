@@ -1,5 +1,5 @@
 {
-    "name": "pxt-dstemp",
+    "name": "dstemp",
     "version": "0.1.27",
     "description": "Dallas/Maxim DS18B20 Temperature Probe",
     "license": "MIT",
@@ -13,14 +13,15 @@
         "shims.d.ts",
         "enums.d.ts",
         "pxtparts.json",
-        "parts/ds18b20probe.svg"
+        "parts/ds18b20probe.svg",
+        "_locales/zh-tw/dstemp-strings.json"
     ],
     "testFiles": [
         "test.ts"
     ],
     "public": true,
     "targetVersions": {
-        "target": "4.0.18",
+        "target": "5.0.12",
         "targetId": "microbit"
     },
     "supportedTargets": [

@@ -12,7 +12,9 @@ namespace dstemp {
     // TODO: Localization
     const errorMsgs  = [ "No Error", "Not Connected", "Start Error", "Read Timeout", "Conversion Failure"];
 
-    //% blockId="celsius" block="temperature (\u00B0\\C) on %pin|"
+    //% blockId="celsius" block="temperature (\u00B0\\C) on %pin_arg|"
+    //% pin_arg.fieldEditor="gridpicker" pin_arg.fieldOptions.columns=5
+    //% pin_arg.fieldOptions.tooltips="false"
     //% shim=dstemp::celsius
     //% parts=dstemp trackArgs=0
     export function celsius(pin: DigitalPin) : number {

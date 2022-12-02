@@ -1,0 +1,6 @@
+{
+    "dstemp.celsius|block":"温度(\u00B0C) %pin_arg|",
+    "dstemp.sensorError|block":"温度感應器匯報錯誤",
+    "{id:category}DS Temp":"DS Temp",
+    "{id:subcategory}Exception":"Exception"
+}
